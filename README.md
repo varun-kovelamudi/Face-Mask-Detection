@@ -1,4 +1,5 @@
 # Face-Mask-Detection
+##Step-1: 
 "Prior to executing the code, ensure that the environment is configured to accommodate the designated versions of libraries."
 Use this pip commands or "pip install -r requirements.txt" in the project environment in Python 3.10 version only for better outpuyt.
 
@@ -24,3 +25,4 @@ Use this pip commands or "pip install -r requirements.txt" in the project enviro
 
 !pip install gdown==4.7.3
 
+##Step2:
