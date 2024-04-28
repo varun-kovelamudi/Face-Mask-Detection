@@ -9,11 +9,18 @@ Use this pip commands or "pip install -r requirements.txt" in the project enviro
 !pip install keras==2.15.0
 
 !pip install matplotlib==3.8.4
+
 !pip install numpy==1.26.4
+
 !pip install opencv-python==4.9.0.80
+
 !pip install pillow==10.3.0
+
 !pip install scikit-learn==1.4.1.post1
+
 !pip install scipy==1.13.0
+
 !pip install tensorflow==2.15.0
+
 !pip install gdown==4.7.3
 
