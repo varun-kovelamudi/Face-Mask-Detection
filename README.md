@@ -27,9 +27,11 @@ Use this pip commands or "pip install -r requirements.txt" in the project enviro
 
 !pip install gdown==4.7.3
 
-## Step2: Execute the "Model_download.ipynb" notebook to retrieve the models. If they are located elsewhere, consolidate them into a single 'models' folder within the project directory.
+## Step2:
+Execute the "Model_download.ipynb" notebook to retrieve the models. If they are located elsewhere, consolidate them into a single 'models' folder within the project directory.
 
 If the models fail to download, utilize the provided Google Drive link to retrieve them.
 Link to Google Drive : https://drive.google.com/drive/folders/1SX8Bz5N0b03fHTGBgBMFBEjyJIqWU53S?usp=drive_link
 
-## Step3 : Simply execute the app.ipynb notebook. Ensure that the camera shutter is turned off, and please ensure that you are in a well-lit environment while running the notebook.
+## Step3 : 
+Simply execute the app.ipynb notebook. Ensure that the camera shutter is turned off, and please ensure that you are in a well-lit environment while running the notebook.
